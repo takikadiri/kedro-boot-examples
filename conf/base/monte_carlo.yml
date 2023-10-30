@@ -1,0 +1,5 @@
+radius: 1
+sample_range: 
+  start: 1000
+  stop: 5000
+  step: 1000

@@ -1,0 +1,9 @@
+kedro==0.18.13
+kedro-datasets[pandas.CSVDataSet, pandas.ExcelDataSet, pandas.ParquetDataSet]~=1.0
+kedro-boot==0.1.0
+kedro-mlflow==0.11.10
+streamlit==1.27.2
+scikit-learn~=1.0
+fastapi==0.95.0
+kedro-viz==6.6.1
+jupyter
